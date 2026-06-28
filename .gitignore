@@ -1,0 +1,17 @@
+## .NET / C#
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.DotSettings.user
+publish/
+
+## Secrets
+appsettings.*.json
+!appsettings.json
+secrets.json
+
+## OS
+.DS_Store
+Thumbs.db
